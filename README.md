@@ -10,9 +10,7 @@
 
 ![](/images/Salary-Study-Graphs-09.jpg)
 
-# [Project 2: Ball Image Classifier](https://github.com/PlayingNumbers/ball_image_classifier)
-For this example project I built a ball classifier to identify balls from different sports. This could be useful for someone who is new to sports from a certain country. They could take a picture of a ball and an app could serve them some information about the history and rules of the game. This is the underlying model for building something with those capabilities. 
-
-I was able to get the model to predict the sport of the ball with 94% accuracy after minimal tuning. For most of the cases this would meet the need of an end user of the app. To get these results I used transfer learning on a CNN trained on resnet34. This created time efficiencies and solid results. 
+# [Project 2: Salary Predictor](https://github.com/PlayingNumbers/ball_image_classifier)
+The journey was marked by excitement and determination as I relentlessly fine-tuned and refined my creation. Each iteration brought me closer to the ultimate goal: unveiling the best model with the utmost accuracy in predicting salaries across distinct tech regions. The potential impact of this tool on the tech job market became ever more evident, as it held the power to empower job seekers and employers alike. This transformative experience has been a testament to my dedication, creativity, and passion for data science. I am thrilled to present this innovative project in my portfolio, showcasing the intersection of technology and human ingenuity and the endless opportunities it can unveil in the world of data-driven analysis and predictive modeling.
 
 ![](/images/locations.png)
