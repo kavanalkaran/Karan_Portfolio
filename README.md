@@ -56,6 +56,8 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Results:** Python functions that calculated and visually presented the sales data by month, city, and the most commonly sold items. Additionally, the reasons for the high frequency of these items being sold were analyzed and provided as insights.
 
+![](/images/dmart.jpg)
+
 
 
 ### Luxury Cars Price Analysis Project
