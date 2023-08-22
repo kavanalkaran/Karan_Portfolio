@@ -67,7 +67,6 @@ In this section I will list data analytics projects briefly describing the techn
 * Scraped over descriptions adn databases from various sources using python and sql.
 * Engineered features from the text of each car's description to quantify the value companies put on the essential paramaters.
 
-![](/images/ev.png)
 
 **Skills:** DML(Data Manipulation Language), DQL (Data Query Language), DDL (Data Definition Language).
 
@@ -87,6 +86,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Technology:** Used Numpy,Pandas,Seaborn,Matplotlib
 
+![](/images/ev.png)
 
 
 ## Education
