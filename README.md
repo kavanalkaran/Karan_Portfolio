@@ -30,24 +30,24 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-### Analyzing the Factors Contributing to the Success of a Movie
-**Code:** [`Analyzing the Factors Contributing to the Success of a Movie.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
+### Movie Recommender System
+**Code:** [`Movie Recommender System.ipynb`](https://github.com/kavanalkaran/Data_Science_Portfolio_Projects/blob/main/Movie%20Recommender%20System%20Project.ipynb)
 
-**Goal:** To determine what factors contribute the most to a movie's success.
+**Goal:** To determine what factors contribute the most to a movie's recommendation.
 
 **Description:** The project focused on analyzing a dataset of movies released between 1980 and 2022. The dataset included movie titles, ratings, genres, release dates, budgets, gross earnings, and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), analyzing the correlation between budget and gross earnings, and implemented Pearson’s correlation statistical analysis.
 
 **Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
 
-**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
+**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib.
 
 **Results:** Using Python functions the analysis revealed that votes and budget have the highest correlation with gross earnings, while the company has no significant correlation.
 
-### Tech Store Sales Analysis
+### D - Mart Store Sales Data Analysis
 
 **Goal:** To examine the sales history of the store and extract insights on its performance, as well as to identify potential improvements that can be implemented.
 
-**Code:** [`Tech Store Sales Analysis.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Tech%20Store%20Sales%20Analysis.ipynb)
+**Code:** [`D - Mart Store Sales Data Analysis.ipynb`](https://github.com/kavanalkaran/Data_Science_Portfolio_Projects/blob/main/Movie%20Recommender%20System%20Project.ipynb)
 
 **Description:** The dataset contains a list of sales records.  The records include the products for sale and order information(order id, order date, price, quantity ordered and purchase address). The project includes the following steps: data loading, data cleaning and preprocessing, EDA (exploratory data analysis), analyzing sales data and hypothesis testing.
 
