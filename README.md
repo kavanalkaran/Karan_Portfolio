@@ -20,8 +20,7 @@ This is a repository to showcase skills, share projects and track my progress in
     - [Data Analysis and Price Prediction of Electric Vehicles](https://github.com/kavanalkaran/Data_Science_Portfolio_Projects/blob/main/Data%20Analysis%20and%20Price%20Prediction%20of%20Electric%20Vehicles.ipynb)
     - [NLP_Project1_Wordcloud](https://github.com/kavanalkaran/Data_Science_Portfolio_Projects/blob/main/NLP_Project1_Wordcloud.ipynb)
    
-
-  - Tools Used
+## Tools Used
   - Python
   - SQL
   - Excel / Google Sheets
@@ -74,14 +73,18 @@ In this section I will list data analytics projects briefly describing the techn
 **Technology:** Used Numpy,Pandas,Seaborn,Matplotlib
 
 
-### Covid 19 Data Exploration
-**Code:** [`COVID Portfolio Project.sql`](https://github.com/tiannaparris/PortfolioProjects/blob/main/COVID%20Portfolio%20Project.sql)
+### Data Analysis and Price Prediction of Electric Vehicles
+**Code:** [`Data Analysis and Price Prediction of Electric Vehicles.ipynb`](https://github.com/kavanalkaran/Data_Science_Portfolio_Projects/blob/main/Data%20Analysis%20and%20Price%20Prediction%20of%20Electric%20Vehicles.ipynb)
 
-**Description:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
+**Description:** 
+* Created a tool that estimates EV car prices and gives various analysis results based on essential parameters that affect the pricing of an electric car.
+* Scraped over descriptions adn databases from various sources using python and sql.
+* Engineered features from the text of each car's description to quantify the value companies put on the essential paramaters.
+ This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
 
-**Skills:** Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+**Skills:** Data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
 
-**Technology:** SQL Server
+**Technology:** Used Numpy,Pandas,Seaborn,Matplotlib
 
 
 
