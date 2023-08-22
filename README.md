@@ -12,9 +12,9 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## Table of Contents
 - [About](https://github.com/kavanalkaran/Karan_Portfolio/blob/main/README.md#about)
-- [Portfolio Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
+- [Portfolio Projects](https://github.com/kavanalkaran/Data_Science_Portfolio_Projects)
   - Python
-    - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/tiannaparris/Data-Analysis-Portfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)
+    - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/kavanalkaran/Data_Science_Portfolio_Projects/blob/main/Movie%20Recommender%20System%20Project.ipynb)
     - [Tech Store Sales Analysis](https://github.com/tiannaparris/Data-Analysis-Portfolio#tech-store-sales-analysis)  
   - SQL
     - [Covid 19 Data Exploration](https://github.com/tiannaparris/Data-Analysis-Portfolio#covid-19-data-exploration)
