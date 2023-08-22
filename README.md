@@ -1,6 +1,6 @@
 # Karan Vinod Kavanal - Data Analyst Portfolio
 ## About
-Hi, I'm Karan! I have an analytical background in Automobile and currentlly I am working with Bepec Solutions as a Data Analyst. I have developed a strong foundation in the Automotive sector and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data specialist. 
+Hi, I'm Karan! I am a Data Analyst working with Bepec Solutions Pvt. Ltd. I have developed a strong foundation in Data Science  and a passion for using data to uncover meaningful insights. I am and B.Tech.(Automotive) graduate and am excited to bring my technical and analytical skills to the field of data science as an entry-level data scientist. 
 
 During my studies and work, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in laboratory techniques, data management, and statistical analysis, which I believe will be valuable assets in my role as a data specialist.
 
@@ -56,8 +56,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Results:** Python functions that calculated and visually presented the sales data by month, city, and the most commonly sold items. Additionally, the reasons for the high frequency of these items being sold were analyzed and provided as insights.
 
-![](/images/dmart.jpg)
-
+![](/images/dmart.png)
 
 
 ### Luxury Cars Price Analysis Project
@@ -94,12 +93,6 @@ In this section I will list data analytics projects briefly describing the techn
 Amity Institute of Technology, Noida:
 B.Tech., Automotive Engineering,
 2017 - 2021
-
-## Certificates
-The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
-- [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/LRQ498UKBBSJ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof) (Sep 2022) (Coursera - Google)
-- [Tableau](https://www.coursera.org/account/accomplishments/verify/62LME4DV8CUV) (Oct 2022) (Coursera - University of California, Davis)
-- [Python for Data Science](https://coursera.org/share/a16ecd3de61dd794199c452586cba90c) (Feb 2023) (Coursera - University of Colorado Boulder)
 
 ## Contacts
 - LinkedIn: [@KaranKavanal](https://www.linkedin.com/in/karan-vinod-kavanal/)
