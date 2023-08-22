@@ -13,16 +13,18 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Table of Contents
 - [About](https://github.com/kavanalkaran/Karan_Portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/kavanalkaran/Data_Science_Portfolio_Projects)
+  - Projects
+    - [Movie Recommender System](https://github.com/kavanalkaran/Data_Science_Portfolio_Projects/blob/main/Movie%20Recommender%20System%20Project.ipynb)
+    - [D - Mart Store Sales Data Analysis](https://github.com/kavanalkaran/Data_Science_Portfolio_Projects/blob/main/Movie%20Recommender%20System%20Project.ipynb)
+    - [Luxury Cars Price Analysis Project](https://github.com/kavanalkaran/Data_Science_Portfolio_Projects/blob/main/Luxury%20Cars%20Price%20Analysis%20Project.ipynb)
+    - [Data Analysis and Price Prediction of Electric Vehicles](https://github.com/kavanalkaran/Data_Science_Portfolio_Projects/blob/main/Data%20Analysis%20and%20Price%20Prediction%20of%20Electric%20Vehicles.ipynb)
+    - [NLP_Project1_Wordcloud](https://github.com/kavanalkaran/Data_Science_Portfolio_Projects/blob/main/NLP_Project1_Wordcloud.ipynb)
+   
+
+  - Tools Used
   - Python
-    - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/kavanalkaran/Data_Science_Portfolio_Projects/blob/main/Movie%20Recommender%20System%20Project.ipynb)
-    - [Tech Store Sales Analysis](https://github.com/tiannaparris/Data-Analysis-Portfolio#tech-store-sales-analysis)  
   - SQL
-    - [Covid 19 Data Exploration](https://github.com/tiannaparris/Data-Analysis-Portfolio#covid-19-data-exploration)
-    - [Nashville Housing Data Cleaning](https://github.com/tiannaparris/Data-Analysis-Portfolio#nashville-housing-data-cleaning)
-  - R
-    - [Legendary Pokémon Analysis (Study Project)](https://github.com/tiannaparris/Data-Analysis-Portfolio#legendary-pok%C3%A9mon-analysis)
   - Excel / Google Sheets
-  - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/tianna.parris)
   - Power BI
 
 ## Portfolio Projects
