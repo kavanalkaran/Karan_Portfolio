@@ -59,15 +59,19 @@ In this section I will list data analytics projects briefly describing the techn
 
 
 
-### Nashville Housing Data Cleaning
-**Code:** [`Data Cleaning Project Queries: Nashville Housing.sql`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Data%20Cleaning%20Project%20Queries:%20Nashville%20Housing.sql)
+### Luxury Cars Price Analysis Project
+**Code:** [`Luxury Cars Price Analysis Project.ipynb`](https://github.com/kavanalkaran/Data_Science_Portfolio_Projects/blob/main/Luxury%20Cars%20Price%20Analysis%20Project.ipynb)
 
-**Description:** The dataset contains a list of houses that have been sold in Nashville between 2013 and 2019. This project includes the following steps: data loading, data cleaning and preprocessing.
+**Description:** 
+* Created a tool that estimates luxury car prices and gives various analysis results based on essential parameters that affect the pricing of a luxury car.
+* Scraped over descriptions adn databases from various sources using python and sql.
+* Engineered features from the text of each car's description to quantify the value companies put on the essential paramaters.
 
+![](/images/Salary-Study-Graphs-09.jpg)
 
 **Skills:** DML(Data Manipulation Language), DQL (Data Query Language), DDL (Data Definition Language).
 
-**Technology:** SQL Server
+**Technology:** Used Numpy,Pandas,Seaborn,Matplotlib
 
 
 ### Covid 19 Data Exploration
@@ -81,34 +85,10 @@ In this section I will list data analytics projects briefly describing the techn
 
 
 
-### Legendary Pokémon Analysis
-
-**Goal:** To predict Pokémon status based on their characteristics and rank their importance in determining whether a Pokémon is classified as legendary.
-
-**Code:** [`Legendary Pokémon Analysis (Study Project)`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Legendary%20Pok%C3%A9mon%20Analysis.ipynb)
-
-**Description:** The dataset contains a list of  Pokémon.  The records include their characteristics such as attack, defense, type and size. The project includes the following steps: data loading, data cleaning EDA (exploratory data analysis), analyzing characteristics of different Pokémon.
-
-**Skills:** data cleaning, data analysis, data visualization.
-
-**Technology:** Tidyverse 
-
-
-
-
-
 ## Education
-University of Colorado, Boulder: 
-Master of Science - MS, Data Science,
-Dec 2022 - Dec 2024
-
-The University of the West Indies, Mona:
-Bachelor's degree, Biochemistry and Molecular Biology,
-2019 - 2022
-
-Pre University School:
-Associate's degree, Science and Mathematics,
-2017 - 2019
+Amity Institute of Technology, Noida:
+B.Tech., Automotive Engineering,
+2017 - 2021
 
 ## Certificates
 The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
@@ -117,18 +97,6 @@ The best way to showcase skills is by doing and sharing your job done but someti
 - [Python for Data Science](https://coursera.org/share/a16ecd3de61dd794199c452586cba90c) (Feb 2023) (Coursera - University of Colorado Boulder)
 
 ## Contacts
-- LinkedIn: [@tiannaparris](https://www.linkedin.com/in/tianna-parris-9b6823176/)
-- Email: parristianna@yahoo.com
+- LinkedIn: [@KaranKavanal](https://www.linkedin.com/in/karan-vinod-kavanal/)
+- Email: kavanalkaran@gmail.com
 
-# [Project 1 - Luxury Car Prices - A Study.](https://github.com/PlayingNumbers/ds_salary_proj)
-* Created a tool that estimates luxury car prices and gives various analysis results based on essential parameters that affect the pricing of a luxury car.
-* Scraped over descriptions adn databases from various sources using python and sql.
-* Engineered features from the text of each car's description to quantify the value companies put on the essential paramaters.
-* Used Numpy,Pandas,Seaborn,Matplotlib to reach the best model. 
-
-![](/images/Salary-Study-Graphs-09.jpg)
-
-# [Project 2: Salary Predictor](https://github.com/PlayingNumbers/ball_image_classifier)
-The journey was marked by excitement and determination as I relentlessly fine-tuned and refined my creation. Each iteration brought me closer to the ultimate goal: unveiling the best model with the utmost accuracy in predicting salaries across distinct tech regions. The potential impact of this tool on the tech job market became ever more evident, as it held the power to empower job seekers and employers alike. This transformative experience has been a testament to my dedication, creativity, and passion for data science. I am thrilled to present this innovative project in my portfolio, showcasing the intersection of technology and human ingenuity and the endless opportunities it can unveil in the world of data-driven analysis and predictive modeling.
-
-![](/images/locations.png)
